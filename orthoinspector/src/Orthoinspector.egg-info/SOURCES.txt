@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/Orthoinspector.egg-info/PKG-INFO
+src/Orthoinspector.egg-info/SOURCES.txt
+src/Orthoinspector.egg-info/dependency_links.txt
+src/Orthoinspector.egg-info/requires.txt
+src/Orthoinspector.egg-info/top_level.txt
+src/orthoinspector/__init__.py
+src/orthoinspector/library.py

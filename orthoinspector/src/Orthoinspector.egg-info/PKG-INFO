@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Orthoinspector
+Version: 0.1.0
+Summary: Interact with the Orthoinspector database and recover orthology relationships
+Author-email: Bilal JANATI IDRISSI <bilal.janati-idrissi@etu.unistra.fr>
+License: LGPL-3.0
+Keywords: bioinformatics,phylogenetics,orthologs,taxonomy,protein-orthology,orthoinspector,comparative-genomics
+Requires-Python: >=3.1
+Description-Content-Type: text/x-rst
+Requires-Dist: Flask==3.1.0
+Requires-Dist: PyYAML==6.0.2
+Requires-Dist: urllib3==2.2.3
